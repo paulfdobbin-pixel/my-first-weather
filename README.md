@@ -1,8 +1,12 @@
 Current Weather: Real-time temperature, humidity, and wind speed.
+
 Location Search: Search for weather data by city name or ZIP code.
-Background: Interface colours or icons(e.g., sunny, rainy, snowy).
-Units.c°
+Background: Interface colours or icons (e.g., sunny, rainy, snowy).
+
+Units: °C
+
 Responsive Design: Fully optimised for Android 
+
 📍 Location Search with Google Maps Integration
 Easily find any city or place using autocomplete and interactive map support.
 
